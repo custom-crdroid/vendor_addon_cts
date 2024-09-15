@@ -1,0 +1,11 @@
+android_app_import {
+    name: "SearchHelper",
+    apk: "SearchHelper.apk",
+    preprocessed: true,
+    presigned: true,
+    privileged: true,
+    product_specific: true,
+    dex_preopt: {
+        enabled: false,
+    },
+}
